@@ -1,0 +1,31 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.teaser {
+    background: #ffffff;
+    border: 1px solid #ddd;
+    display: block;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-box-shadow: 0px 1px 1px 0px rgba(180, 180, 180, 0.2);
+    -moz-box-shadow: 0px 1px 1px 0px rgba(180, 180, 180, 0.2);
+    box-shadow: 0px 1px 1px 0px rgba(180, 180, 180, 0.2);
+    padding: 25px 25px 20px 25px;
+}
+
+.teaser-content {
+    height: 293px !important;
+}
+
+.teaser-content {
+    height: 227px !important;
+}
+
+.ver-mid {
+    vertical-align: middle !important;
+}
